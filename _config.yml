@@ -10,7 +10,8 @@ author:
   url: "https://aka.ms/annielytics"
 permalink: pretty
 permalink: /:title
-keywords: [podcast, jekyll]
+keywords: [podcast, jekyll, AnEye4AI]
+theme: jekyll-podcaster
 
 #Plugins
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
