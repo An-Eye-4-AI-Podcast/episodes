@@ -1,7 +1,7 @@
 # Site settings
 title: "An Eye 4 AI Podcast"
 description: "Hosted by Annielytics"
-podcast-description: "This is your podcast's summary."
+podcast-description: "Welcome to my Women in Tech podcast site.
 url:  "https://An-Eye-4-AI-Podcast.netlify.app/" # Actual base url of the website
 baseurl: "/episodes"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
@@ -10,11 +10,12 @@ author:
   url: "https://aka.ms/annielytics"
 permalink: pretty
 permalink: /:title
-keywords: [podcast, jekyll, AnEye4AI]
+keywords: [podcast, jekyll, AnEye4AI, annielytix, annielytics, AI, LLM]
 theme: jekyll-podcaster
 
 #Plugins
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+
 
 #exclude: [_podcast.rss] #Ignore this, it will be used in case I decide to add rss feed
 
